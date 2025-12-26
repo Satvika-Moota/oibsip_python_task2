@@ -19,7 +19,7 @@ This application allows users to calculate their BMI and instantly know their he
 
 ##  Installation
 1. Clone the repository:
-git clone https://github.com/your-username/BMI-Calculator.git
+git clone https://github.com/Satvika-Moota/oibsip_python_task2
 
 2. Go to the project folder:
 cd BMI-Calculator
